@@ -1,2 +1,3 @@
 # demo-2
-Hii this is my first repository
+Hi this is my first repository
+Author - Priyam Gupta
